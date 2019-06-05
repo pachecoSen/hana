@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "@sap/hana-client": "https://npm.sap.com/@sap/hana-client/-/hana-client-2.4.139.tgz"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachecoSen/hana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pachecoSen/hana/issues"
+  },
+  "homepage": "https://github.com/pachecoSen/hana#readme"
 }
